@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DSL::Node&lt;T&gt;">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAEAAEA=</HashCode>
+      <FileName>DSL.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DSL::Vector&lt;S&gt;">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAAgAAAAAAAAIEAAAABAAEAAAAEAEAAAAAAAAA=</HashCode>
+      <FileName>DSL.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DSL::Vertex">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DSL.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DSL::Graph">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgAAAAAAAAAAAAAAAAAAEAAYAwAAgAAAAAAAAAEAA=</HashCode>
+      <FileName>DSL.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Guide::GIKIMAP">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAQAAAAAAAABAAAAAAAAGABAAAA=</HashCode>
+      <FileName>GIKIGuide.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
